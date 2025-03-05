@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
@@ -57,4 +56,3 @@
 ---
 
 🔥 **Fun Fact:** Coding is like humor – if you have to explain it, it's not that good! 😆
-```
