@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/tushar-kumar-191558230">
     <img src="https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://my-dev-portfolio-tan.vercel.app/">
+  <a href="https://kanishkaportfolio-black.vercel.app/">
     <img src="https://img.shields.io/badge/-🚀%20Portfolio%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -142,4 +142,4 @@
 
 ---
 
-**Made with ❤️ by Tushar**
+**Made with ❤️ by Kanishka**
