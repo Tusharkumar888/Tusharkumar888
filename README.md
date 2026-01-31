@@ -3,7 +3,7 @@
 ### 🎯 Full-Stack Developer | 💻 Code Artisan | 🚀 Building the Future, One Line at a Time
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar-kumar-191558230">
+  <a href="https://www.linkedin.com/in/kanishka-verma-571316325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://kanishkaportfolio-black.vercel.app/">
