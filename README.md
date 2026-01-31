@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tushar
+# 👋 Hi, I'm Kanisha Verma
 
 ### 🎯 Full-Stack Developer | 💻 Code Artisan | 🚀 Building the Future, One Line at a Time
 
@@ -120,17 +120,12 @@
 ## 🌐 Digital Footprint
 
 <p align="center">
-  <a href="https://linkedin.com/in/tushar-kumar-191558230">
+  <a href="https://www.linkedin.com/in/kanishka-verma-571316325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/tusharkumar888219/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:tusharkumar888219@gmail.com">
+  <a href="mailto:vermakanishka0911@gmal.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://my-dev-portfolio-tan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
